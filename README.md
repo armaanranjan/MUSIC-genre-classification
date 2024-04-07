@@ -17,7 +17,7 @@ DEPENDENCIES
 4.CONTRIBUTORS
     >ARMAAN RANJAN
 5.LISENCE
-    >This project is licensed under the MIT License - see the LICENSE file for details.
+    >This project is licensed under the MIT License 
 
     
     
